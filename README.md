@@ -1,4 +1,4 @@
-#Versiones anteriores de Power BI
+# Versiones anteriores de Power BI
 
 Cada mes, Microsoft lanza actualizaciones de Power BI, lo cual es excelente a medida que se agregan nuevas funciones a Power BI. En esta publicación, me gustaría compartir las versiones anteriores de Power BI.
 
