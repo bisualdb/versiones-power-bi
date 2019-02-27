@@ -10,7 +10,6 @@ Desde enero de 2016, he intentado guardar una copia de todas las versiones de Po
 | 2.33.4337.501 64-bit | Marzo 2016  | | Descargar |
 
 
-| Versión de Power BI  | Lanzamiento |
-| ------------- | ------------- |
-| 2.31.4280.661 64-bit  | Enero 2016  |
-| Content Cell  | Content Cell  |
+| Versión de Power BI  | Lanzamiento | | Link |
+| ------------- | ------------- | ------------- |
+| 2.31.4280.661 64-bit  | Enero 2016  | Descargar | 
