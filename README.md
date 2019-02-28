@@ -20,7 +20,6 @@ Desde enero de 2016, he intentado guardar una copia de todas las versiones de Po
 | 2.40.4554.463 64-bit	| Octubre 2016  | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2016/PBIDesktop_x64%20-%202.40.4554.463%20-%20October%202016.zip) | X |
 | 2.41.4581.361 64-bit	| Noviembre 2016  | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2016/PBIDesktop_x64%20-%202.41.4581.361%20-%20November%202016.zip) | X |
 | 2.42.4611.482 64-bit	| Enero 2017  | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2017/PBIDesktop_x64%20-%202.42.4611.482%20-%20January%202017.zip) | X |
-| 2.42.4611.701 64-bit	| Enero 2017  | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2017/PBIDesktop_x64%20-%202.42.4611.701%20-%20January%202017.zip) | X |
 | 2.42.4611.901 64-bit	| Enero 2017  | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2017/PBIDesktop_x64%20-%202.42.4611.901%20-%20January%202017.zip) | X |
 | 2.43.4647.541 64-bit	| Febrero 2017  | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2017/PBIDesktop_x64%20-%202.43.4647.541%20-%20February%202017.zip) | X |
 | 2.44.4675.422 64-bit | Marzo 2017	| [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2017/PBIDesktop_x64%20-%202.44.4675.422%20-%20March%202017.zip) | X |
@@ -100,3 +99,4 @@ Desde enero de 2016, he intentado guardar una copia de todas las versiones de Po
 | 2.65.5313.841 64-bit |	Enero 2019 |	[Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2019/PBIDesktop_x64%20-%202.65.5313.841%20-%20January%202019.zip) | X |
 | 2.65.5313.1381 32-bit |	Enero 2019 | X | X |
 | 2.65.5313.1381 64-bit |	Enero 2019 | X | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2019/PBIDesktop_x64_ES%20-%202.65.5313.1381%20-%20January%202019.zip) |
+| 2.42.4611.701 64-bit	| Enero 2017  | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2017/PBIDesktop_x64%20-%202.42.4611.701%20-%20January%202017.zip) | X |
