@@ -100,9 +100,3 @@ Desde enero de 2016, he intentado guardar una copia de todas las versiones de Po
 | 2.65.5313.841 64-bit |	Enero 2019 |	[Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2019/PBIDesktop_x64%20-%202.65.5313.841%20-%20January%202019.zip) | X |
 | 2.65.5313.1381 32-bit |	Enero 2019 | X | X |
 | 2.65.5313.1381 64-bit |	Enero 2019 | X | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2019/PBIDesktop_x64_ES%20-%202.65.5313.1381%20-%20January%202019.zip) |
-
-
-
-
-
-[Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop_x64_ES%20-%202.54.4970.961%20-%20January%202018.zip)
