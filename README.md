@@ -70,7 +70,7 @@ Desde enero de 2016, he intentado guardar una copia de todas las versiones de Po
 | 2.57.5068.501 64-bit |	Abril 2018 |	[Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop_x64%20-%202.57.5068.501%20-%20April%202018.zip) | X |
 | 2.57.5068.721 32-bit |	Abril 2018 | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop%20-%202.57.5068.721%20-%20April%202018.zip) | X |
 | 2.57.5068.721 64-bit |	Abril 2018 |	[Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop_x64%20-%202.57.5068.721%20-%20April%202018.zip) |  [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop_x64_ES%20-%202.57.5068.721%20-%20April%202018.zip) |
-| 2.58.5103.501 32-bit |	Mayo 2018 |	X | X |
+| 2.58.5103.501 32-bit |	Mayo 2018 |	[Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop%20-%202.58.5103.501%20-%20May%202018.zip) | X |
 | 2.58.5103.501 64-bit |	Mayo 2018 |	[Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop_x64%20-%202.58.5103.501%20-%20May%202018.zip) | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop_x64_ES%20-%202.58.5103.501%20-%20May%202018.zip) |
 | 2.59.5135.421 32-bit |	Junio 2018 | [Descargar](https://github.com/bisualdb/versiones-power-bi/raw/master/Versiones%20Power%20BI/2018/PBIDesktop%20-%202.59.5135.421%20-%20June%202018.zip) | X |
 | 2.59.5135.421 64-bit |	Junio 2018 | !X | X |
